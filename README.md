@@ -1,5 +1,5 @@
-# Melanoma-Detection
-# Project Name
+# Project :- Melanoma-Detection
+# Project Aim :-
 To build a CNN based model which can accurately detect melanoma. 
 
 # Table of Contents
@@ -49,7 +49,7 @@ Melanoma is a type of cancer that can be deadly if not detected early. It accoun
 - Write your findings after the model fit, see if the issues are resolved or not?
 
 # Conclusions
-- A CNN model with improved accuracy and dropped loss fucntion was built with having no overfitting.
+- A CNN model with improved accuracy and dropped loss fucntion was built without overfitting.
 
 # Contacts
 - Created by [@Partha104]
