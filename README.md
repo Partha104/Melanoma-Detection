@@ -4,14 +4,14 @@ To build a CNN based model which can accurately detect melanoma.
 
 # Table of Contents
 - General Info
-- Technologies Used
+- Project Pipeline
 - Conclusions
 - Contacts
 
 # General Info
 Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
-- The data set contains the following diseases:
+## The data set contains the following diseases:
 
 - Actinic keratosis
 - Basal cell carcinoma
@@ -48,8 +48,8 @@ Melanoma is a type of cancer that can be deadly if not detected early. It accoun
 - Train the model for ~30 epochs
 - Write your findings after the model fit, see if the issues are resolved or not?
 
-Conclusions
--A CNN model with improved accuracy and dropped loss fucntion was built with having no overfitting.
+# Conclusions
+- A CNN model with improved accuracy and dropped loss fucntion was built with having no overfitting.
 
-Contacts
-Created by [@Partha104]
+# Contacts
+- Created by [@Partha104]
